@@ -628,7 +628,7 @@
 		  return c;
 	} }
 
-  if (typeof devtools.dialog!='undefined') {
+  if (typeof devtools.dialog != 'undefined') {
 		devtools.config = {
 			open: function() {
 				var msg = (typeof this.__options.html == 'string') ? this.__options.html + '<hr/>' : '';
