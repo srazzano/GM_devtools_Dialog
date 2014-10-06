@@ -1,4 +1,4 @@
-GM_devtools_Dialog
+GM devtools Dialog
 ==================
 
 Create settings diaog
