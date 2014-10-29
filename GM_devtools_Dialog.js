@@ -50,7 +50,7 @@
   }
 
   String.prototype.toCustNum = function () {
-    return parseInt(this.replace(/,|-/g, ''));
+    return parseInt(this.replace(/,|-|\./g, ''));
   }
   
   function insertAfter(newNode, refNode) {
