@@ -6,7 +6,7 @@
 // @namespace   srazzano
 // @include     *
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/monkey.png
-// @download    
+// @download    https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
 // @support     srazzano@gmail.com
 // @grant       GM_getValue
 // @grant       GM_setValue
