@@ -5,8 +5,8 @@
 // @author      Sonny Razzano aka srazzano
 // @namespace   srazzano
 // @include     *
-// @icon        https://dl.dropboxusercontent.com/u/77691265/monkey.png
-// @download    https://dl.dropboxusercontent.com/u/77691265/GM_devtools_Dialog.js
+// @icon        https://raw.githubusercontent.com/srazzano/Images/master/monkey.png
+// @download    
 // @support     srazzano@gmail.com
 // @grant       GM_getValue
 // @grant       GM_setValue
