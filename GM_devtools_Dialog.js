@@ -7,7 +7,7 @@
 // @include     *
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/monkey.png
 // @homepageURL https://github.com/srazzano/GM_devtools_Dialog/blob/master/GM_devtools_Dialog.js
-// @download    https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
+// @downloadURL https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
 // @support     srazzano@gmail.com
 // @grant       GM_getValue
 // @grant       GM_setValue
